@@ -6,6 +6,7 @@ python_aiohttp.py by xianhu
 
 import asyncio
 import aiohttp
+import timeout
 
 
 # 简单实例
